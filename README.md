@@ -28,8 +28,8 @@ Verwendete Teile:
 - 4x Neodymmagnet 10x5mm
 - Jumper-Kabel
 
-1. Alle Teile aus dem Ordner "Parts" drucken. Die Einstellungen müssen je nach verwendetem Drucker im jeweiligen Slicer gewählt werden.
+1. Alle Teile aus dem Ordner "Teile" drucken. Die Einstellungen müssen je nach verwendetem Drucker im jeweiligen Slicer gewählt werden.
 
 
-2. Zusammenbau nach Anleitung "Instructions.pdf"
+2. Zusammenbau nach Anleitung "Anleitung.pdf"
 
