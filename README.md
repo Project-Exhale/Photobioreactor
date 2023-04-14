@@ -12,7 +12,7 @@ Created by: Simeon Wallrath, 2022
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-Diese Version ist ein erster und nicht ausgereifter Prototyp, die Entwicklung findet unter https://github.com/Project-Exhale/Exhale_Merch statt
+Diese Version ist ein erster und nicht ausgereifter Prototyp, die Entwicklung findet unter https://github.com/Project-Exhale/Exhale_Merch statt.
 
 # Anweisungen
 
