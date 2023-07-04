@@ -25,6 +25,7 @@ Verwendete Teile:
 - Temperatur: DS18B20 in wasserdichter Ausführung
 - Leitfähigkeit: KS0429 Keyestudio TDS Meter V1.0
 - Trübung: KS0414 Keyestudio Turbidity Sensor V1.0
+- Wasserstand: Seeedstudio Grove Waterlevel Sensor
 
 - 1x Widerstand 20k
 - 2x Widerstand 5k
