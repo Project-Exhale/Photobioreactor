@@ -11,7 +11,7 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-Diese Version ist nicht vollständig ausgereifter Prototyp, die Entwicklung findet unter [https://github.com/Project-Exhale/Exhale_Merch](https://github.com/Project-Exhale/Photobioreactor_Development) statt.
+Diese Version ist nicht vollständig ausgereifter Prototyp, die Entwicklung findet unter https://github.com/Project-Exhale/Photobioreactor_Development statt.
 
 Kontakt: s.wallrath at rptu punkt de
 
